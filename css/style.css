@@ -1,4 +1,15 @@
 /* background color of the Navigation Bar*/
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1601880348117-25c1127a95df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646
+}
+
+
 .NavBar {
     background-color: #D3D3D3;
     overflow:  hidden;
